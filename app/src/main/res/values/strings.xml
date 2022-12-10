@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckBMI</string>
+    <string name="iOne">Input weight in kilogram:</string>
+    <string name="iTwo">Input height in meters</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/conbg"
+    android:gravity="center"
+    tools:context=".Result">
+
+
+    <TextView
+        android:id="@+id/rest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Hello"
+        android:padding="20dp"
+        android:textColor="#DC3535"
+        android:background="#F5D5AE"
+        android:textSize="80sp"
+        />
+
+
+</LinearLayout>
